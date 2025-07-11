@@ -8,6 +8,13 @@
       "when": 1751936844420,
       "tag": "0000_modern_captain_universe",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752193385665,
+      "tag": "0001_large_colossus",
+      "breakpoints": true
     }
   ]
 }
